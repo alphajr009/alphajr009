@@ -10,8 +10,6 @@
 
 - 🧑‍🎓 I’m an Undergraduate at **SLIIT**
 
-- 🌱 I’m willing to learn **SAP HANA**
-
 - 👨‍💻 I’m a Seller on **Amazon & eBay**
 
 - 📫 You can reach me **pasindurandika45@gmail.com**
